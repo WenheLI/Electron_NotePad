@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+
+  padding: 0;
+}
+
+.logo {
+  height: 32px;
+  background: rgba(255,255,255,.2);
+  margin: 16px;
+}
+
+textarea {
+  width: 100%;
+  height: 99.55%;
+  border-color: rgba(255,127,80,0);
+
+  background-color: rgba(255,127,80,0);
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.card-container > .ant-tabs-card > .ant-tabs-content {
+  height: 100%;
+  margin-top: -16px;
+}
+
+.card-container > .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane {
+  height: 100%;
+}
+
+#container {
+  height: 100%;
+}
+
+.ant-tabs {
+  height: 100%;
+}
+
+.card-container > .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane {
+  height: 100%;
+}
+
+
+
